@@ -1,4 +1,4 @@
-hostname = "mydatabase1.c3rltnh39ysg.us-east-1.rds.amazonaws.com"
+hostname = "customebucket"
 username = "admin"
 password = "Sushmita20"
 db = "mydatabase-1"
