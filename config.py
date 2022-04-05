@@ -1,4 +1,4 @@
-hostname = "custombucket"
+hostname = "bucketsecond2"
 username = "admin"
 password = "Sushmita20"
 db = "mydatabase-1"
